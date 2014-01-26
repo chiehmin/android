@@ -63,7 +63,7 @@
   <project path="external/arduino" name="platform/external/arduino" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="omnirom" revision="android-4.4" />
+  <project path="external/bluetooth/bluedroid" name="CyanogenMod/android_external_bluetooth_bluedroid" remote="github" revision="cm-11.0" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" />
   <project path="external/busybox" name="android_external_busybox" remote="omnirom" revision="android-4.4" />
@@ -241,6 +241,7 @@
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" revision="android-4.4" remote="omnirom" groups="pdk" />
+  <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti" remote="github" revision="cm-11.0" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
   <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" />
@@ -283,7 +284,7 @@
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" remote="omnirom" revision="android-4.4" />
-  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="omnirom" revision="android-4.4" />
+  <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" remote="github" revision="cm-11.0" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="omnirom" revision="android-4.4" />
